@@ -13,10 +13,12 @@ y urgente en la UNT. Enfocado en reducir tiempo y procesos actuales y generando 
 ![Benchmark](https://user-images.githubusercontent.com/32301249/37534483-efa67952-2912-11e8-8231-9cf6e2a91914.png)
 
 ### BMC
+![bmc](https://user-images.githubusercontent.com/32301249/37540877-a0c92078-2926-11e8-9cd2-0a2144866997.png)
 
 ### Research Cuantitativo: Encuestas
 ![datos-rs](https://user-images.githubusercontent.com/32301249/37538634-39d4f038-291f-11e8-9786-d9284f70f977.png)
 ![matricula-presencial](https://user-images.githubusercontent.com/32301249/37538707-764c7cde-291f-11e8-920f-86beb29288b1.png)
+
 
 
 

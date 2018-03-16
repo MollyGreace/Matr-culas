@@ -15,6 +15,11 @@ y urgente en la UNT. Enfocado en reducir tiempo y procesos actuales y generando 
 ### BMC
 
 ### Research Cuantitativo: Encuestas
+![datos-rs](https://user-images.githubusercontent.com/32301249/37538634-39d4f038-291f-11e8-9786-d9284f70f977.png)
+![matricula-presencial](https://user-images.githubusercontent.com/32301249/37538707-764c7cde-291f-11e8-920f-86beb29288b1.png)
+
+
+
 
 ## 2. Síntesis y Definición
 ## 3. Ideación

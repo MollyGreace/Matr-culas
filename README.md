@@ -19,13 +19,36 @@ y urgente en la UNT. Enfocado en reducir tiempo y procesos actuales y generando 
 ![datos-rs](https://user-images.githubusercontent.com/32301249/37538634-39d4f038-291f-11e8-9786-d9284f70f977.png)
 ![matricula-presencial](https://user-images.githubusercontent.com/32301249/37538707-764c7cde-291f-11e8-920f-86beb29288b1.png)
 
-**Conclusiones**    
+**Conclusiones de Encuestas**    
 ![conclusiones](https://user-images.githubusercontent.com/32301249/37541489-d1dbbd40-2928-11e8-9bdf-9d9024bda96b.png)   
 * Podemos decir que según encuestas, dentro de las principales preocupaciones de los estudiantes es el largo proceso debido al tiempo que pasan haciendo colas para matricularse, e igual sucede con los cursos.    
 * Asimismo la gran mayoría  opinó que necesita la Matrícula virtual y que actualmente no disponen de una.   
 * Por lo tanto deducimos la vital importancia del acceso a una matrícula totalmente virtual.   
 
 ## 2. Síntesis y Definición
+### Affinity Map
+### User Person
+### Customer Journey
 ## 3. Ideación
+### Problem Statements
+#### HMW
+#### What if
+#### Feature List
+#### Priorización
+#### Definición del MVP
+#### Storyboard
+#### Storytelling
+#### Content Prototyping
+#### User Flow
+
 ## 4. Prototipado
+### Paper Prototyping
+### Testing 1
+#### Feedback
+### Testing 2
+#### Feedback
 ## 5. User Testing
+### Testing con Marvel
+#### Feedback
+### Debriefing
+

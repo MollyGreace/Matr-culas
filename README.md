@@ -91,31 +91,85 @@ Se tiene como principales referencias otras Universidades locales y particulares
 
 * Edad: 24 años
 * Escuela: Contabilidad
+
 ![fiore](https://user-images.githubusercontent.com/32301249/37647185-a355ce60-2bf9-11e8-8816-85bb390a1258.png)
 
-## 2. Síntesis y Definición
-### Affinity Map
-### User Person
-### Customer Journey
-## 3. Ideación
-### Problem Statements
-#### HMW
-#### What if
-#### Feature List
-#### Priorización
-#### Definición del MVP
-#### Storyboard
-#### Storytelling
-#### Content Prototyping
-#### User Flow
+**CONCLUSIONES ENTREVISTAS A STAKEHOLDERS**
 
-## 4. Prototipado
-### Paper Prototyping
-### Testing 1
+1. Se menciona que existe Matrícula Virtual pero no está al alcance de todos
+2. A ellos también les toma trabajo realizar el proceso, desde imprimir las indicaciones hasta guardar cada documento de los alumnos.
+3. Les gustaría que hayan mejoras también para que ellos y les facilite el trabajo de la documentación.
+
+**CONCLUSIONES ENTREVISTAS A USUARIOS**
+
+1. Los alumnos de la UNT mencionan demorar en sólo trámites alrederor de 4 horas. Y su constancia de matrícula les entregan en el transcurso de iniciado el ciclo.
+2. Mediante el *SGA(Sistema de Gestión Académica)* acceden a sus notas y visualizan un gráfico de su progeso por ciclo.
+3. Saben que existe un Sistema de Matrículas virtual, pero no es de acceso a todos los alumnos, sólo para alumnos que demuestran con documentos que trabajan.
+
+## 2. SÍNTESIS Y DEFINICIÓN
+
+### AFFINITY MAP
+
+* Acceso al SGA - UNT  
+![acceso al sga](https://user-images.githubusercontent.com/32301249/37672308-b30d3504-2c3b-11e8-8d5c-a0325dafefad.jpg)
+
+* Matrícula Presencial UNT   
+![mat presencial](https://user-images.githubusercontent.com/32301249/37680845-17ef5d8c-2c53-11e8-8497-8967cc653f62.jpg)
+
+
+* Tiempo Matrícula Presencial   
+![tiempo-matricula-presencial](https://user-images.githubusercontent.com/32301249/37681483-cbfb0b5e-2c54-11e8-8a51-9453eae3d2f9.jpg)
+
+* Matrícula Virtual UNT   
+![online unt](https://user-images.githubusercontent.com/32301249/37681481-cbaf2c2a-2c54-11e8-873c-b2a1a6888077.jpg)
+
+* Matrículas en Otras Universidades   
+![matriculas otras u](https://user-images.githubusercontent.com/32301249/37671626-2926a9de-2c3a-11e8-92c7-2ad3ea7d4f23.jpg)
+
+* Tiempo de Matrícula Online en otras Universidades   
+![tiempo-otras u](https://user-images.githubusercontent.com/32301249/37681164-e27c4006-2c53-11e8-9749-076694f954e3.jpg)
+
+
+* Otros   
+![otros](https://user-images.githubusercontent.com/32301249/37681482-cbd29b9c-2c54-11e8-97b1-e8670e307fbc.jpg)
+
+
+* Se encuentra un alto grado de aceptación y fácil acceso por parte de los alumnos en el SGA(Sistema de Gestión Académica).
+* Indican que el tiempo es bastante para realizar una matrícula. Alrededor de 4 horas.
+* Prefieren tener más opciones en sus sistema de matrículas.
+* Desearían que el trámite Virtual de Matrícula sea accesible para todos.
+
+### USER PERSON
+* A continuación les presento a Carlos.
+
+Imagen
+
+### CUSTOMER JOURNEY
+* A continuación se describe el CJ más crítico.
+
+Imagen
+
+## 3. IDEACIÓN
+### **PROBLEM STATEMENTS**
+#### HMW
+#### WHAT IF
+#### FEATURE LIST
+#### PRIORIZACIÓN
+#### DEFINICIÓN DEL MVP
+#### STORYBOARD
+#### STORYTELLING
+#### CONTENT PROTOTYPING
+#### USER FLOW
+
+## 4. PROTOTIPADO
+### PAPER PROTOTYPING Prototyping
+### TESTING 1
 #### Feedback
-### Testing 2
+### TESTING 2
 #### Feedback
-## 5. User Testing
+
+
+## 5. USER TESTING
 ### Testing con Marvel
 #### Feedback
 ### Debriefing

@@ -40,42 +40,51 @@ Se tiene como principales referencias otras Universidades locales y particulares
 * Por lo tanto deducimos la vital importancia del acceso a una matrícula totalmente virtual.   
 
 ### **ENTREVISTAS A STAKEHOLDERS**
+![entrevistas](https://user-images.githubusercontent.com/32301249/37646612-1a05a17c-2bf8-11e8-9c34-371110ac0b95.png)
+
 
 **Julio**
 
 * Edad: 38 años
 * Ocupación: Administrativo UNT Valle Jequetepeque
+![julio](https://user-images.githubusercontent.com/32301249/37646803-a2c27a12-2bf8-11e8-8441-ee47a67761e5.png)
+
 
 **Elizabeth**
 
 * Edad:  52 años
 * Ocupación: Secretaria Resgitro Técnico UNT Sede Trujillo
+![elizabeth](https://user-images.githubusercontent.com/32301249/37646973-17c26d9a-2bf9-11e8-80f7-a6da429c82a5.png)
+
 
 ### **ENTREVISTAS A USUARIOS**
 **Luis**
 
 * Edad: 23 años
 * Escuela: Ing. Sistemas
+![luis](https://user-images.githubusercontent.com/32301249/37646971-17697eb0-2bf9-11e8-9fa9-a91b2a7fe5bc.png)
 
 **Andrés**
 * Edad: 20 años
 * Escuela: Ing. Mecánica
-
+![andres](https://user-images.githubusercontent.com/32301249/37646972-17978aa8-2bf9-11e8-8078-490bbd8d95e0.png)
 
 **Carlos**
 * Edad: 22 años
 * Escuela: Contabilidad
+![carlos](https://user-images.githubusercontent.com/32301249/37647089-69342362-2bf9-11e8-9b22-4b1d5cd2dc98.png)
+
 
 **Arnold**
-* Edad: 20 años
+* Edad: 23 años
 * Escuela: Ing. Mecánica
-
+![arnold](https://user-images.githubusercontent.com/32301249/37647183-a32083ae-2bf9-11e8-964e-9e07ff04021e.png)
 
 **Fiorella**
 
 * Edad: 24 años
 * Escuela: Contabilidad
-
+![fiore](https://user-images.githubusercontent.com/32301249/37647185-a355ce60-2bf9-11e8-8816-85bb390a1258.png)
 
 ## 2. Síntesis y Definición
 ### Affinity Map

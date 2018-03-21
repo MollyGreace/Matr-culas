@@ -153,7 +153,7 @@ Luego de verificar Encuestas y Entrevistas encontramos los siguientes apartados:
 * Desearían que el trámite Virtual de Matrícula sea accesible para todos.
 
 ### USER PERSON
-* A continuación les presento a Carlos.
+* A continuación les presento a Luis Cabanillas.
 
 ![user-person](https://user-images.githubusercontent.com/32301249/37691402-c236f9e0-2c7f-11e8-9b7d-523530771bd3.png)
 
@@ -164,16 +164,59 @@ Luego de verificar Encuestas y Entrevistas encontramos los siguientes apartados:
 ![cjm](https://user-images.githubusercontent.com/32301249/37698779-6e929410-2cb2-11e8-8967-71f42518aa49.png)
 
 ## 3. IDEACIÓN
+
 ### **PROBLEM STATEMENTS**
+A continuación conoceremos las necesidades de nuestros usuarios tomando como referencia nuestro User Persona.
+
+* Luis **necesita** acceder a un Sistema de Matrículas **porque** quiere monitorear su progreso académico.
+* Luis **necesita** tener más tiempo **para** realizar otras actividades académicas durante la fecha de matrículas.
+* Luis **necesita**  tener un sistema de Matrículas que le brinde la opción de armar sus horarios **porque** le ayudaría a organizar sus tiempos.
+* Luis **necesita** un Sistema de matrículas que le permita compartir su progreso **porque** sus padres se lo solicitan.
+* Luis **necesita** acceder a su Sistema de matrículas mientras está en su celular **para** facilitarle la vida.
+* Luis **necesita** matricularse cuando está lejos de la Universidad **porque** él viaja a Cajamarca en vacaciones a trabajar con sus padres.
+
 #### HMW
+
+* ¿**Cómo podríamos** monitorear el progreso académico de Luis?
+* ¿**Cómo podríamos** hacer que Luis comparta su progreso académico con sus padres?
+* ¿**Cómo podríamos** brindarle a Luis la opción de armar sus horarios?
+* ¿**Cómo podríamos** reducir el tiempo que Luis consume en matricularse?
+
 #### WHAT IF
+
+* **Que tal si**¿le damos a Luis un Sistema de Matrículas Virtual?
+* **Que tal si**¿le ofrecemos a Luis un  board Virtual donde armar sus horarios de clase y también su tiempo?
+* **Que tal si**¿creamos un Sistema que permita pagar online?
+* **Que tal si**¿nos guiamos de otras plataformas virtuales de otras Universidades?
+
 #### FEATURE LIST
+
+***SGA Virtual - UNT***
+
+* Perfil de Usuario
+  * Acceso con código de alumno más clave personal
+  * Olvidé Contraseña.
+
+* Matrículas
+  * Ver notas de cada unidad después de cada examen.
+  * Armar horario de clase.
+  * Compartir progreso académico.
+  * Ver el Nombre de profesor.
+  * Previsualizar número de créditos aprobados y los que aún faltan.
+  * Visualizar, la importancia de cada curso.
+  * Vizualizar un gráfico del promedio de notas por ciclo.
+
 #### PRIORIZACIÓN
+![priorizacion](https://user-images.githubusercontent.com/32301249/37703936-55b9f3c6-2cc5-11e8-986e-7f4c64326a2e.jpg)
+
 #### DEFINICIÓN DEL MVP
-#### STORYBOARD
+
+<!-- #### STORYBOARD
 #### STORYTELLING
-#### CONTENT PROTOTYPING
-#### USER FLOW
+#### CONTENT PROTOTYPING -->
+### USER FLOW
+![user flow](https://user-images.githubusercontent.com/32301249/37705299-8ed9085a-2cc9-11e8-913f-9c0e0e252f37.jpg)
+
 
 ## 4. PROTOTIPADO
 ### PAPER PROTOTYPING Prototyping

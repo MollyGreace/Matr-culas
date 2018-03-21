@@ -142,7 +142,8 @@ Se tiene como principales referencias otras Universidades locales y particulares
 ### USER PERSON
 * A continuación les presento a Carlos.
 
-Imagen
+![user-person](https://user-images.githubusercontent.com/32301249/37691402-c236f9e0-2c7f-11e8-9b7d-523530771bd3.png)
+
 
 ### CUSTOMER JOURNEY
 * A continuación se describe el CJ más crítico.

@@ -110,7 +110,20 @@ Se tiene como principales referencias otras Universidades locales y particulares
 
 ### AFFINITY MAP
 
-* Acceso al SGA - UNT  
+![affinity map](https://user-images.githubusercontent.com/32301249/37699313-03038efe-2cb5-11e8-84d0-4f30659b48ff.png)
+
+
+Luego de verificar Encuestas y Entrevistas encontramos los siguientes apartados:
+
+* Acceso al SGA - UNT 
+* Matrícula Presencial UNT   
+* Tiempo Matrícula Presencial   
+* Matrícula Virtual UNT  
+* Matrículas en Otras Universidades   
+* Tiempo de Matrícula Online en otras Universidades   
+* Otros
+<!-- 
+* Acceso al SGA - UNT 
 ![acceso al sga](https://user-images.githubusercontent.com/32301249/37672308-b30d3504-2c3b-11e8-8d5c-a0325dafefad.jpg)
 
 * Matrícula Presencial UNT   
@@ -131,9 +144,9 @@ Se tiene como principales referencias otras Universidades locales y particulares
 
 
 * Otros   
-![otros](https://user-images.githubusercontent.com/32301249/37681482-cbd29b9c-2c54-11e8-97b1-e8670e307fbc.jpg)
+![otros](https://user-images.githubusercontent.com/32301249/37681482-cbd29b9c-2c54-11e8-97b1-e8670e307fbc.jpg) -->
 
-
+**Conclusiones:**
 * Se encuentra un alto grado de aceptación y fácil acceso por parte de los alumnos en el SGA(Sistema de Gestión Académica).
 * Indican que el tiempo es bastante para realizar una matrícula. Alrededor de 4 horas.
 * Prefieren tener más opciones en sus sistema de matrículas.
@@ -146,9 +159,9 @@ Se tiene como principales referencias otras Universidades locales y particulares
 
 
 ### CUSTOMER JOURNEY
-* A continuación se describe el CJ más crítico.
+* A continuación se describe el CJ del proceso de matrículas.
 
-Imagen
+![cjm](https://user-images.githubusercontent.com/32301249/37698779-6e929410-2cb2-11e8-8967-71f42518aa49.png)
 
 ## 3. IDEACIÓN
 ### **PROBLEM STATEMENTS**

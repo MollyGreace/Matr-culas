@@ -219,7 +219,7 @@ A continuación conoceremos las necesidades de nuestros usuarios tomando como re
 
 ## 4. PROTOTIPADO & TESTING
 
-[1er Prototipo](www.marvelapp.com)
+[1er Prototipo](https://marvelapp.com/2f68e60)
 
 Se realizó un prototipado en Digital con Figma y Marvel y se testeó con 07 usuarios. El resumen de este testing es el siguiente:
 
@@ -238,4 +238,4 @@ Se realizó un prototipado en Digital con Figma y Marvel y se testeó con 07 usu
 ### Debriefing
 En base al feedback recibido con los usuarios se modificó el prototipo.
 
-[Prototipo Final](www.marvelapp.com)
+[Prototipo Final](https://marvelapp.com/448939b)

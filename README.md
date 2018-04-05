@@ -194,12 +194,11 @@ A continuación conoceremos las necesidades de nuestros usuarios tomando como re
 ***SGA Virtual - UNT***
 
 * Perfil de Usuario
-  * Acceso con código de alumno más clave personal
+  * Acceso con código de alumno y clave personal.
   * Olvidé Contraseña.
 
 * Matrículas
   * Ver notas de cada unidad después de cada examen.
-  * Armar horario de clase.
   * Compartir progreso académico.
   * Ver el Nombre de profesor.
   * Previsualizar número de créditos aprobados y los que aún faltan.
@@ -209,24 +208,34 @@ A continuación conoceremos las necesidades de nuestros usuarios tomando como re
 #### PRIORIZACIÓN
 ![priorizacion](https://user-images.githubusercontent.com/32301249/37703936-55b9f3c6-2cc5-11e8-986e-7f4c64326a2e.jpg)
 
-#### DEFINICIÓN DEL MVP
+### DEFINICIÓN DEL MVP
 
 <!-- #### STORYBOARD
 #### STORYTELLING
 #### CONTENT PROTOTYPING -->
-### USER FLOW
+#### USER FLOW
 ![user flow](https://user-images.githubusercontent.com/32301249/37705299-8ed9085a-2cc9-11e8-913f-9c0e0e252f37.jpg)
 
 
-## 4. PROTOTIPADO
-### PAPER PROTOTYPING Prototyping
-### TESTING 1
-#### Feedback
-### TESTING 2
-#### Feedback
+## 4. PROTOTIPADO & TESTING
 
+[1er Prototipo](www.marvelapp.com)
 
-## 5. USER TESTING
-### Testing con Marvel
-#### Feedback
+Se realizó un prototipado en Digital con Figma y Marvel y se testeó con 07 usuarios. El resumen de este testing es el siguiente:
+
+**Feedback Positivo:**
+1. Me gustan los colores.
+2. Se ve muy rápido al interactuar.
+3. Es bastante simple a comparación de la matrícula presencial ojalá la implemente la Universidad.
+4. Me gusta el menú del costado.
+
+**Feedback Negativo:**
+1. Agregar imágenes con movimiento a los encabezados de cada pantalla.
+2. Cambiar el tamaño de los íconos de inicio.
+3. Debería haber una guía con flechas e indicaciones al momento de matricular.
+4. Al generar la orden de pago, debería aparecer el código para poder pagar en el banco.
+
 ### Debriefing
+En base al feedback recibido con los usuarios se modificó el prototipo.
+
+[Prototipo Final](www.marvelapp.com)

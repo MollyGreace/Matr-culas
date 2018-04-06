@@ -10,6 +10,7 @@ Acceder a una matrícula virtual, no sólo se considera una necesidad urgente si
 **2.** El tiempo actual que toma el proceso de marícula va de los **2 días hasta semanas**.  
 **3.** La virtualización de los procesos está muy **alejada de las Sedes** en provincia.   
 **4.** Al matricularse cada ciclo, no puedes hacerlo sin que tus **notas del ciclo anterior** estén en el Sistema de Gestión Académica(SGA).
+![Colas para las matrículas - Abril 2018](https://user-images.githubusercontent.com/32301249/38432237-6e3748bc-398c-11e8-9103-8b33c21e6ca8.jpg)
 
 ### **BENCHMARKING**
 Se tiene como principales referencias otras Universidades locales y particulares que ya cuentan con matrícula virtual y además son la principal competencia de la UNT. 
